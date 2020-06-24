@@ -1,1 +1,4 @@
 Mechendo com números, sem saber mexer com números.
+Ok Ess void() {
+}
+hrllo
